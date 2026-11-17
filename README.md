@@ -10,7 +10,7 @@ Download the latest production APK and enjoy the game on your Android device!
 
 ## 🚀 Download Latest Version
 
-**[⬇️ Download OOPS! WORLD for Android](https://github.com/hariprasad-research/oops-world-downloads/releases/latest/download/OOPS-WORLD-PRODUCTION.apk)**
+**[⬇️ Download OOPS! WORLD for Android](https://github.com/hariprasad-research/oops-world-downloads/releases)**
 
 - Platform: Android
 - File Format: APK
